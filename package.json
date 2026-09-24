@@ -1,0 +1,23 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Sabih897/javaScript-learning#readme",
+  "bugs": {
+    "url": "https://github.com/Sabih897/javaScript-learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sabih897/javaScript-learning.git"
+  },
+  "license": "ISC",
+  "author": "Sabih Akbar",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

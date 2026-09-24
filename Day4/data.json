@@ -1,0 +1,22 @@
+[
+  {
+    "name": "soap",
+    "price": 100,
+    "quantity": 12
+  },
+  {
+    "name": "shampoo",
+    "price": 250,
+    "quantity": 8
+  },
+  {
+    "name": "biscuit",
+    "price": 50,
+    "quantity": 48
+  },
+  {
+    "name": "chips",
+    "price": 60,
+    "quantity": 55
+  }
+]

@@ -1,0 +1,62 @@
+[
+  { "id": 1, "name": "Ali", "lastActive": "2026-09-20", "status": "active" },
+  { "id": 2, "name": "Sara", "lastActive": "2026-08-01", "status": "inActive" },
+  { "id": 3, "name": "Rahul", "lastActive": "2026-09-10", "status": "active" },
+  {
+    "id": 4,
+    "name": "Ayesha",
+    "lastActive": "2026-07-15",
+    "status": "inActive"
+  },
+  {
+    "id": 5,
+    "name": "Vikash",
+    "lastActive": "2026-06-20",
+    "status": "inActive"
+  },
+  { "id": 6, "name": "Neha", "lastActive": "2026-09-18", "status": "active" },
+  {
+    "id": 7,
+    "name": "Arjun",
+    "lastActive": "2026-08-20",
+    "status": "inActive"
+  },
+  { "id": 8, "name": "Zoya", "lastActive": "2026-07-01", "status": "inActive" },
+  { "id": 9, "name": "Karan", "lastActive": "2026-09-01", "status": "active" },
+  {
+    "id": 10,
+    "name": "Mehak",
+    "lastActive": "2026-05-25",
+    "status": "inActive"
+  },
+  {
+    "id": 11,
+    "name": "Aditya",
+    "lastActive": "2026-09-22",
+    "status": "active"
+  },
+  {
+    "id": 12,
+    "name": "Fatima",
+    "lastActive": "2026-08-10",
+    "status": "inActive"
+  },
+  {
+    "id": 13,
+    "name": "Rohan",
+    "lastActive": "2026-06-05",
+    "status": "inActive"
+  },
+  {
+    "id": 14,
+    "name": "Ishita",
+    "lastActive": "2026-09-05",
+    "status": "active"
+  },
+  {
+    "id": 15,
+    "name": "Sameer",
+    "lastActive": "2026-07-25",
+    "status": "inActive"
+  }
+]
