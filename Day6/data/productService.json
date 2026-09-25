@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 60000,
+      "stock": 5
+    },
+    {
+      "id": 2,
+      "name": "Electric Trimmer",
+      "category": "Beauty",
+      "price": 1299,
+      "stock": 10
+    },
+    {
+      "id": 3,
+      "name": "Canvas Backpack",
+      "category": "Accessories",
+      "price": 1800,
+      "stock": 0
+    },
+    {
+      "id": 4,
+      "name": "Office Chair",
+      "category": "Furniture",
+      "price": 8500,
+      "stock": 3
+    },
+    {
+      "id": 5,
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 3500,
+      "stock": 15
+    }
+  ],
+  "searchResult": [
+    {
+      "id": 2,
+      "name": "Electric Trimmer",
+      "category": "Beauty",
+      "price": 1299,
+      "stock": 10
+    }
+  ],
+  "pagination": [
+    {
+      "id": 2,
+      "name": "Electric Trimmer",
+      "category": "Beauty",
+      "price": 1299,
+      "stock": 10
+    }
+  ],
+  "summary": {
+    "totalProducts": 1,
+    "totalStock": 10,
+    "totalInventoryValue": 12990,
+    "outOfStock": 0
+  }
+}
