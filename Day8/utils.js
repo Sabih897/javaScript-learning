@@ -16,3 +16,4 @@ export function info(version,platform,workingDir,CLIagrs){
     console.log(obj);
     
 }
+m
